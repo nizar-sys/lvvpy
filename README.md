@@ -7,7 +7,7 @@ Termux:
 pkg install python
 
 
-git clone https://github.com/nizar-sys/lvvpy
+git clone https://github.com/nizar-sys/lvvpy.git
 
 
 cd lvvpy
@@ -21,8 +21,7 @@ linux:
 sudo install python
 
 
-git clone https://github.com/nizar-sys/lvvpy
-
+git clone https://github.com/nizar-sys/lvvpy.git
 
 cd lvvpy
 
