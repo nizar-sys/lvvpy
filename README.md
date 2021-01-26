@@ -1,11 +1,17 @@
-# lvvpy
+#LVVPY
 
+How to execute
 
-How to execute:
+Termux:
 
-termux:
-
-apt update && apt upgrade
-
+pkg install python
 git clone https://github.com/nizar-sys/lvvpy
- python hay.py
+cd lvvpy
+python hay.py
+
+linux:
+
+sudo install python
+git clone https://github.com/nizar-sys/lvvpy
+cd lvvpy
+python hay.py
