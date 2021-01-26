@@ -7,4 +7,4 @@ termux:
 
 apt update && apt upgrade
 
-git clone
+git clone 
