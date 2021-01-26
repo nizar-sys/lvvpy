@@ -7,4 +7,5 @@ termux:
 
 apt update && apt upgrade
 
-git clone 
+git clone https://github.com/nizar-sys/lvvpy
+ python hay.py
