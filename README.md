@@ -13,7 +13,7 @@ git clone https://github.com/nizar-sys/lvvpy.git
 cd lvvpy
 
 
-python hay.py
+python lvvpy.py
 
 
 linux:
@@ -26,4 +26,4 @@ git clone https://github.com/nizar-sys/lvvpy.git
 cd lvvpy
 
 
-python hay.py
+python lvvpy.py
